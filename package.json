@@ -1,5 +1,5 @@
 {
-  "name": "shadow-link-bot",
+  "name": "shadowlinkbot",
   "version": "1.0.0",
   "description": "Discord Bot for Shadow Corporation",
   "main": "index.js",
